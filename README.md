@@ -1,10 +1,14 @@
 # OpenNotes
-Some notes that I have learned during school time and working, marking here for long-term &amp; online avaliablity.
+**Some notes that I have learned during school time, working, and self-directed learning, marking here for a `long-term & online` availability**
 # For What
-### **I leave the notes to tell you I HAVE BEEN**
+**I leave the notes to tell you I HAVE BEEN**  
+**学会的就要教人 得到的就要给人**
 # Notes Info
-|Lessions|Tags|Updating States|
-|:--:|:--:|:--:|
-|Rietan-FP|Learn|Updating|
-|Midjourney|Learn|Updating|
-|CrysTBox|Learn|Updating|
+|Points|Categories|Timeliness|Upload States|Revise States|
+|:--:|:--:|:--:|:--:|:--:|
+|Rietan-FP|software|outdated|undo|undo|
+|Midjourney|webapp|valid|undo|undo|
+|CrysTBox|software|valid|undo|undo|  
+
+Note: all the notes will be aggregated in this `README.md` file  
+

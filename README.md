@@ -10,5 +10,19 @@
 |Midjourney|webapp|valid|undo|undo|
 |CrysTBox|software|valid|undo|undo|  
 
-Note: all the notes will be aggregated in this `README.md` file  
+Note: all the notes and auxiliary files in the repository will be aggregated in this `README.md` file. And at least one file will be uploaded every day until all the things be done  
 
+---
+
+**Here begins the notes**
+
+---
+## Rietan-FP
+
+
+
+---
+
+**Here begins the auxiliary files** 
+
+---

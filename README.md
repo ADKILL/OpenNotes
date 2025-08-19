@@ -13,7 +13,7 @@
 ##### Note: 
 1. all the notes in the repository will be aggregated in this `readme.md` file
 2. and `info.md`, `markdown.md`, `rules.md` and other auxiliary files will be uploaded instead of their contents aggregating into `readme.md` until the repository's state turns into `keeping`
-3. and at least one file will be uploaded every day until all the things be done
+3. and at least one file will be edited every day until all the things be done
 
 
 ---

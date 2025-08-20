@@ -1,5 +1,7 @@
 /* 
 !.gitignore
+!main/
+<!--前三行已经写死, 配合扩展使用, 勿动-->
 !.annotations.md
 !.html.md
 !.markdown.md

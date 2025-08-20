@@ -1,4 +1,12 @@
-/ 
+/* 
 !.gitignore
+!.annotations.md
+!.html.md
+!.markdown.md
+!.point-sample.md
+!.rules.md
+!.thoughts.md
+!readme.md
+
 
 

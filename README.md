@@ -1,4 +1,4 @@
-# OpenNotes  `uploading`
+# OpenNotes  `uploading` `updating`
 
 **Some notes that I have learned during school time, working, and self-directed learning, marking here for a `long-term & online` availability**
 

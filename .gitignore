@@ -1,6 +1,12 @@
 /* 
 !.gitignore
-!main/
+!readme.md
+
+
+!daily-skills/
+!advanced-things/
+!professional-things/
+!software-things/
 
 
 !.annotations.md
@@ -13,7 +19,7 @@
 !.mermaid.md
 
 
-!readme.md
+
 
 
 

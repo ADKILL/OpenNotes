@@ -29,9 +29,14 @@
 #### 2.1 软件获取
 
 - 直接来源 
-  [豆瓣网页-Minitab 22.3 中文破解版v22.3数据分析管理软件安装包下载](https://www.douban.com/note/874214278/?_i=1130986iRoqfDp,4409346iRoqfDp)
-  ![豆瓣网页-Minitab 22.3 中文破解版v22.3数据分析管理软件安装包下载](https://raw.githubusercontent.com/ADKILL/ImageHub/main/opennotes/20251129175904783.png)
+  - [豆瓣网页-Minitab 22.3 中文破解版v22.3数据分析管理软件安装包下载](https://www.douban.com/note/874214278/?_i=1130986iRoqfDp,4409346iRoqfDp)
+  - [百度网盘下载链接](https://pan.baidu.com/s/1_For_WIUg1Rb6BOlu_r8Bg?pwd=6666)
+  - ![豆瓣网页-Minitab 22.3 中文破解版v22.3数据分析管理软件安装包下载](https://raw.githubusercontent.com/ADKILL/ImageHub/main/opennotes/20251129175904783.png) 
 
+- 软件包保存路径
+  - 百度网盘
+  - 移动硬盘
+   
 #### 2.2 软件安装
 
 ### 3.软件使用教程及心得体会

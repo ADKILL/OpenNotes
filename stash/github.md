@@ -2,7 +2,7 @@
 本文归属项目：`github`
 本文属性信息：|**github**|S|valid|doing|undo|
 本文修订状态：
-草稿 20251129
+草稿 20251129 25251203
 -->
 
 
@@ -32,16 +32,32 @@
 
 ### 3.软件使用教程及心得体会
 
-#### 3.* 作为图床使用时图片链接格式
+#### 3.1 作为图床使用时图片链接格式
 
-- 直接从vscode复制链接
+注意：
+1. 需要安装`github pull request`插件才能在vscode中实现图片的上传和复制链接操作
+2. 不安装插件也可在github网站复制链接
+
+
+#### 3.1.1 图片上传到github及vscode中的链接复制操作
+
+1. 图片上传到github
+   1. vscode 中切换到图片仓库
+   2. 将图片复制粘贴到特定目录下
+   3. 提交仓库更改到github
+2. vscode中的链接复制操作
+   1. 选中需要复制markdown格式链接的图片
+   2. `右键`-->`共享`-->`将 github permalink 复制为 markdown`
+   3. 将链接粘贴到需要位置，进行格式的修改
+
+#### 3.1.2 直接从vscode复制的链接格式
 ```
   ![folder](https://github.com/ADKILL/ImageHub/blob/bda69bf17ea00fbc4e86a76793e10a792ea85d73/headface/folder.jpg?raw=true)
 ```
-***注意：链接最后需要加上`?raw=true`字符串***
+***注意：链接最前需要加上`!`，链接最后需要加上`?raw=true`字符串***
 ![folder](https://github.com/ADKILL/ImageHub/blob/bda69bf17ea00fbc4e86a76793e10a792ea85d73/headface/folder.jpg?raw=true)
 
-- 使用CDN加速节点的链接(pic-go图床上传的链接格式)
+#### 3.1.3 使用CDN加速节点的链接格式(pic-go图床上传的链接格式)
 ```
 ![folder](https://raw.githubusercontent.com/ADKILL/ImageHub/main/headface/folder.jpg)
 ```

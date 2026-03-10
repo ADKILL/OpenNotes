@@ -8,6 +8,7 @@
 初稿4：20251030 修正科目三行驶中道路的变化 添加站岗相关内容 添加科目四相关内容
 定稿：20251104 完成科目三考试后的内容全面更新 术语统一 添加科目二相应图片
 修订1：20251111 科四考试考场显示未报名后修订科四相关内容
+修订2：20260310 图片链接更换成本地自托管图床链接 更新随到随考相关信息
 -->
 
 ### 1. 考试报名、考试缴费
@@ -17,6 +18,7 @@
 - 科目三考试前未缴费的在待考室内刷身份证时不要刷，确认缴费成功后再刷身份证
 - 科目四考试前完成半天的站岗执勤，可以选择城北或者城南；
 - **不要相信教练或驾校人员的所谓"手机给我，我给你预约考试"，他们只是拿你手机关注驾校抖音，报名需要自己明确看到有考试日期才算数**
+- **科目四的随到随考是真的，但是车管所不给你考**
 
 ### 2. 科目一考试内容及应试技巧
 
@@ -361,21 +363,21 @@
 
 |科目二考场各项目领车点示意图|
 |:---:|
-|![倒库领车点](https://raw.githubusercontent.com/ADKILL/ImageHub/main/opennotes/20251104093116109.png)|
+|![倒库领车点](http://127.0.0.1:40027/opennotes/2026/03/10/69af8c81eea2c.png)|
 |领车点对准左起第二根黄线和第三根黄线中间空白的正中|
-|![倒车入库](https://raw.githubusercontent.com/ADKILL/ImageHub/main/opennotes/abf4086d6d67cb1bf2c8500d5499eaeb.jpg)|
+|![倒车入库](http://127.0.0.1:40027/opennotes/2026/03/10/69af8c7ba216f.jpg)|
 |领车点对准左起第二根黄线和第三根黄线中间空白的正中|
-|![侧方停车领车点](https://raw.githubusercontent.com/ADKILL/ImageHub/main/opennotes/20251104093253442.png)|
+|![侧方停车领车点](http://127.0.0.1:40027/opennotes/2026/03/10/69af8c8038c83.png)|
 |领车点对准箭头的右侧|
-|![曲线领车点](https://raw.githubusercontent.com/ADKILL/ImageHub/main/opennotes/20251104093359898.png)|
+|![曲线领车点](http://127.0.0.1:40027/opennotes/2026/03/10/69af8c850af0d.png)|
 |领车点对准箭头的中间|
-|![直角领车点-车外](https://raw.githubusercontent.com/ADKILL/ImageHub/main/opennotes/20251104093417096.png)|
+|![直角领车点-车外](http://127.0.0.1:40027/opennotes/2026/03/10/69af8c81401ff.png)|
 |领车点对准筋柱的最右侧边缘，或轮胎的最左侧，或二者接缝处|
-|![直角领车点-车内远](https://raw.githubusercontent.com/ADKILL/ImageHub/main/opennotes/20251104093442938.png)|
+|![直角领车点-车内远](http://127.0.0.1:40027/opennotes/2026/03/10/69af8c7d87361.png)|
 |领车点对准筋柱的最右侧边缘，或轮胎的最左侧，或二者接缝处|
-|![直角领车点-车内近](https://raw.githubusercontent.com/ADKILL/ImageHub/main/opennotes/20251104093429812.png)|
+|![直角领车点-车内近](http://127.0.0.1:40027/opennotes/2026/03/10/69af8c7ea31d8.png)|
 |领车点对准筋柱的最右侧边缘，或轮胎的最左侧，或二者接缝处|
-|![坡道领车点](https://raw.githubusercontent.com/ADKILL/ImageHub/main/opennotes/20251104093502205.png)|
+|![坡道领车点](http://127.0.0.1:40027/opennotes/2026/03/10/69af8c8451da8.png)|
 |领车点对准左起或右起第三根黄线右侧边缘|
-|![坡道停车点](https://raw.githubusercontent.com/ADKILL/ImageHub/main/opennotes/20251104093514278.png)|
+|![坡道停车点](http://127.0.0.1:40027/opennotes/2026/03/10/69af8c83760e6.png)|
 |领车点 视线通过右侧车门车窗接缝处对准竖向排列的三个点|
